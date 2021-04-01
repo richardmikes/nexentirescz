@@ -1248,11 +1248,11 @@
 
 .footer-link {
   color: #fff;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .vyhra-link {
-  color: #000;
+  color: #801494;
   text-decoration: none;
 }
 
